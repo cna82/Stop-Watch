@@ -125,8 +125,8 @@ npm run lint     # Run ESLint
 **Sina**
 Frontend Engineer | Next.js Specialist
 
-* GitHub: [https://github.com/your-username](https://github.com/cna82)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sina-rahimi-459454321/)
+* GitHub: [https://github.com/cna82](https://github.com/cna82)
+* LinkedIn: [https://linkedin.com/in/sina-rahimi-459454321](https://www.linkedin.com/in/sina-rahimi-459454321/)
 
 > *"Clean code is not just a skill — it’s a professional responsibility."*
 
