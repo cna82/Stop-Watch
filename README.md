@@ -64,18 +64,6 @@ src/
 
 ---
 
-## 🖼 Preview
-
-> UI Preview (Dark / Light Mode)
-
-```txt
-[ Add screenshots or a demo GIF here ]
-```
-
-You can easily extend this project with animations, lap tracking, or persistence if needed.
-
----
-
 ## ⚙️ Getting Started
 
 ### 1️⃣ Install Dependencies
