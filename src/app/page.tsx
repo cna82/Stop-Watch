@@ -1,6 +1,6 @@
 // app/page.tsx
 
-import StopwatchClient from "@/components/stopWatchClientSide/idnex";
+import StopwatchClient from "@/components/stopWatchClientSide";
 import { Suspense } from "react";
 import Loading from "./Loading";
 

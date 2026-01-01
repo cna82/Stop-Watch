@@ -120,7 +120,7 @@ const StopwatchClient = () => {
                             <div className="space-y-2 max-h-48 overflow-y-auto pr-1">
                                 {history.map((t: number, index: number) => (
                                     <div
-                                        key={`${t}-${index}`} // ۱۰۰٪ منحصر به فرد حتی با زمان تکراری
+                                        key={`${t}-${index}`}
                                         className="flex items-center justify-between gap-4 p-3 rounded-xl bg-muted/60 hover:bg-muted/80 transition-all duration-200 border border-border/50"
                                     >
                                         <div className="flex items-baseline gap-3">
